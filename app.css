@@ -87,7 +87,7 @@ a:visited, a:active, a:hover {
 .slides-caption {
   width: 800px;
   position: absolute;
-  top: 40%;
+  top: 20%;
   left: 50%;
   margin-left: -400px;
   text-align: center;
@@ -240,4 +240,11 @@ a:visited, a:active, a:hover {
   padding: 20px 0px;
   background: #292929;
   font-size: 12px;
+}
+
+#main-pic {
+  width: 100%;
+  float: left;
+  margin-right: -100%;
+  position: relative;
 }
